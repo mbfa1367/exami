@@ -85,7 +85,7 @@ body {
 
 /* fix the site size by using media property */
 
-@media (min-width: 300px) and (max-width: 950px) {
+@media (max-width: 992px)) {
   #title {
     text-align: right;
   }
