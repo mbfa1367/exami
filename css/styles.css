@@ -107,7 +107,7 @@ body {
   .main-counter {
     position: absolute;
     top: 90%;
-    right: 90%;
+    left: 10%;
     text-align: center;
   }
 
