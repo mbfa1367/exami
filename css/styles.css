@@ -104,8 +104,10 @@ body {
     font-size: 20px;
   }
 
-  .main-counter {
-    position: static;
+   .main-counter {
+    position: absolute;
+    top: 70%;
+    right: 60%;
     text-align: center;
   }
 
