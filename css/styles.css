@@ -3,6 +3,11 @@ body {
   margin: 0;
 }
 
+.container-fluid{
+  /* top/buttom  left/right buttom*/
+    padding: 7% 15%;
+}
+
 /* background image property */
 #background img {
   position: absolute;
